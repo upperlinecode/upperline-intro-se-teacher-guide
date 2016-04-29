@@ -56,12 +56,11 @@ This is industry practice.
 
 + Practice moving up the tree using .. (`cd ..` moves backwards)
 
-
 + Important: directories only know what's directly inside of them. If I'm in Paris, the only things I know are the activities, I don't know that I'm in France, and I don't know that Rome even exists. 
 
-+ Write out the absolute path of different files and directories. An Absolute path is a path that starts from the root directory. In the case with Nitrous, the root directory is called `Nitrous`. An absolute path to the labs directory would be: `nitrous/code/labs`.
++ Write out the absolute path of different files and directories. An Absolute path is a path that starts from the root directory. In the case with Atom, the root directory is called `home`. An absolute path to the labs directory would be: `home/username/code`.
 
-+ Write out the relative path to the cities from the trip directory. A relative path changes based on what directory you're in. If you're inside your `code` directory, and you're trying to get to your `labs` directory, the relative path would be `labs`, but the relative path from there would be `nitrous/code/labs`.
++ Write out the relative path to the cities from the trip directory. A relative path changes based on what directory you're in. If you're inside your `home` directory, and you're trying to get to your `code` directory, the relative path would be `code`, but the absolute path from there would be `home/username/code`.
 
 + It helps to draw out the file structure tree on the board, and use that as a visual to draw out the path.
 
