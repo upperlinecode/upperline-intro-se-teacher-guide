@@ -8,17 +8,18 @@
 + students will know the CLI commands to complete a lab
 
 ## Motivation
+
 We had you all make GitHub accounts in order to sign up for Learn. We'll talk a lot more about GitHub in the coming days, but it's important to note that GitHub is the standard in industry for developers to store their code. Companies use GitHub to assess if a developer can do the things they claim to know. You guys are going to start building out really robust digital portfolio of your work on GitHub, so it's important that you store all your completed labs and lessons on GitHub.
 
-Your Nitrous containers are NOT permanent and should not be thought of as places to keep your work. GitHub needs to be your first and foremost place to keep all your code. 
+Your Atom/Learn containers are NOT permanent and should not be thought of as places to keep your work. GitHub needs to be your first and foremost place to keep all your code. 
 
 If you click on a lab in Learn, you'll notice all the lights on the right hand side. Those lights mark completion of a lesson or lab. It's important for you appropriately mark completion so that your teachers know how far along into the material you've gotten. It's also a great marker for you in your own coding progress.
 
 ## Lesson Plan 
 
-+ The first light that says `Fork` - don't worry what `fork` means, we'll get to it in the coming days. All you need to turn this light green is to click the button that says `Open in Nitrous`.
++ The first light that says `Fork` - don't worry what `fork` means, we'll get to it in the coming days. All you need to turn this light green is to click the button that says `Open`. (This will open the lab in Atom)
 
-+ The last light, the one that says `Pull Request` (again don't worry about what a `Pull Request` is, we'll get to that later!), just asks for your work to be submitted to GitHub so that Learn knows you're done. To do this, in terminal in the main directory of the lab enter `learn submit`. This will turn that last light green
++ The last light, the one that says `Pull Request` (again don't worry about what a `Pull Request` is, we'll get to that later!), just asks for your work to be submitted to GitHub so that Learn knows you're done. To do this, in terminal in the main directory of the lab enter `learn submit`. This will turn that last light green.
 
 + If you worked with more than one other person, we know you all want credit for finishing the work. In that case, the person who has the work on their computer just needs to enter: `learn submit --team github,usernames`. If Beth worked with Carley and Joe, and Beth has the work on her computer, she would enter `learn submit --team carleygithub, joegithub`. This will change the lights on Learn for Carley and Joe, as well as put the code on Carley and Joe's GitHub accounts.
 
