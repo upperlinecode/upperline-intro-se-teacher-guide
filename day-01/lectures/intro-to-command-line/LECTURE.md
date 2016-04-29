@@ -44,7 +44,7 @@ This is industry practice.
 
 + Create text files for places you want to visit in the cities directories by using touch. `touch city_name`
 
-+ Open the file using the Nitrous file browser
++ Open the file using the Atom file browser or by typing `atom filename`
 
 + (pause and have students create files with text.)
 
