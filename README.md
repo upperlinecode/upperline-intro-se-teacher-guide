@@ -20,9 +20,9 @@ Here you'll find:
 
 ### [Day 5 - Object Orientation](day-05)
 
-### [Day 6 - OO Review and HTML](day-06)
+### [Day 6 - HTML and CSS](day-06)
 
-### [Day 7 - HTML, CSS, Bootstrap](day-07)
+### [Day 7 - More HTML/CSS, Bootstrap](day-07)
 
 ### [Day 8 - MVC and Ideation](day-08)
 

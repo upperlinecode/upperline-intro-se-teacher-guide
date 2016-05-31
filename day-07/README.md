@@ -20,11 +20,21 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-    <td>9:15 - 11:00</td>
-    <td>Intro to CSS</td>
+    <td>9:15 - 10:00</td>
+    <td>Bootstrap</td>
+      
     <td>
-    	
-
+    	**NEED BOOTSTRAP LECTURE**
+      **NEED BOOTSTRAP LECTURE NOTES**
+    </td>
+  </tr>
+  <tr>
+    <td>10:00 - 11:30</td>
+    <td>Bootstrap Practice</td>
+      
+    <td>
+      ** BOOTSTRAP LABS **
+      Students can also add bootstrap to their personal pages from Day 6.
     </td>
   </tr>
   <tr>
@@ -71,15 +81,3 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ##SWBATS
 
-+ HTML - Organize sections of HTML with div tags
-+ CSS - Explain the purpose and structure of CSS
-+ CSS - Link an html file to CSS
-+ CSS - Select specific content to style using tag names, classes, and ids
-+ CSS - Center text using the text-align property
-+ CSS - Modify content placement with margin, padding, and border properties
-+ CSS - Change image size using height and width properties
-+ CSS - Add background colors using the background property
-+ CSS - Use hexadecimal, rgba, and rgb color values
-+ CSS - Change the font of text using font-size font-family and color properties
-+ CSS - Move chunks of content around the page using the float property
-+ CSS - Master reading documentation of CSS properties
