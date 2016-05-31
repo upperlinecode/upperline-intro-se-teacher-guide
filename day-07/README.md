@@ -23,24 +23,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>9:15 - 11:00</td>
     <td>Intro to CSS</td>
     <td>
-    	<a href="lectures/css/LECTURE.md">Lecture: CSS</a></br>
-      <a href="lectures/css/LECTURE.md">Lecture Notes</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/css-walkthrough-hs">Walkthrough: CSS</a></br>
-    	
-    	CSS Labs</br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-empire-state-css-challenge">Lab: Empire State CSS Challenge</a></br>
-      <a href="https://Github.com/learn-co-curriculum/hs-intro-software-engineering-css-selectors"> Lab: CSS Gems</a><br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-zetsy">Stretch Lab: Zetsy</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-zhw-shoes-layout">Stretch Lab: ZHW Shoes</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-css-issue-bot-9000">Lab: CSS Issue Bot 9000</a></br>
-      <a href="https://github.com/learn-co-curriculum/kitten-wheelbarrow"> Stretch Lab: Kitten Wheelbarrow</a> <br>
-    	<a href="https://GitHub.com/learn-co-curriculum/animal-save">Stretch Lab: Animal Save</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-responsive-web-design-stretch">Stretch Lab: Responsive Web Design</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/fe-concentration-game">Stretch Lab: Concentration Game</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/ecard-site-layout">Stretch Lab: eCard</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/fe-jquery-exploring-selectors">Stretch Lab: jQuery Selectors</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/fe-jquery-exploring-methods">Stretch Lab: jQuery Methods</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-my-website">Stretch Lab: Make Your Own Personal Website!</a></br>
     	
 
     </td>

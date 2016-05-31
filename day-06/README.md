@@ -31,34 +31,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
   </tr>
   <tr>
     <td>10:15 - 11:30</td>
-    <td>OO Review</td>
-    <td>
-      This day should be structured to allow students at different levels to work and be happy :)
-      Let students self select what group to be in:
-      <br>
-      <br>
-      Lab Practice - Do unfinshed OO labs from Day 5. This group is supported by the TA
-      <br>
-      <br>
-      OO Lecture Review - Facebook example. Lead by an instructor:
-        <a href="https://GitHub.com/learn-co-curriculum/hs-ruby1-facebook-review">Facebook Example</a>
-      <br>
-      <br>
-      OO Advanced Material Lecture - Facebook Example - lead by an instructor:
-        <a href="stretch-oo-concepts/README.md">Stretch Concepts - classes interacting, self, class variables </a>
-        <a href="https://GitHub.com/learn-co-curriculum/hs-ruby1-facebook-stretch-example"> Facebook Stretch Example</a>
-    </td>
-  </tr>
-  <tr>
-    <td>11:30 - 12:30</td>
-    <td>Lunch</td>
-    <td>
-       
-    </td>
-  </tr>
-  <tr>
-    <td>12:30 - 2:50</td>
-    <td>Intro to HTML</td>
+    <td>Intro HTML</td>
     <td>
       <a href="lectures/html/LECTURE.md">Lecture: HTML</a></br>
       <a href="lectures/html">Lecture Notes</a></br>
@@ -69,6 +42,37 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
       <a href="https://GitHub.com/learn-co-curriculum/dev-tools-super-power">Lab: Dev Tools Super Power</a></br>
       <a href="https://github.com/learn-co-curriculum/hs-ruby1-my-website"> HTML and CSS Lab: Personal Website</a><br>
       <a href="https://GitHub.com/learn-co-curriculum/hs-issue-bot-9000">Lab: HTML Issue Bot 9000</a></br>
+    </td>
+  </tr>
+
+  <tr>
+    <td>11:30 - 12:30</td>
+    <td>Lunch</td>
+    <td>
+       
+    </td>
+  </tr>
+  <tr>
+    <td>12:30 - 2:50</td>
+    <td>Intro to CSS</td>
+    <td>
+      <a href="lectures/css/LECTURE.md">Lecture: CSS</a></br>
+      <a href="lectures/css/LECTURE.md">Lecture Notes</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/css-walkthrough-hs">Walkthrough: CSS</a></br>
+      CSS Labs</br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-empire-state-css-challenge">Lab: Empire State CSS Challenge</a></br>
+      <a href="https://Github.com/learn-co-curriculum/hs-intro-software-engineering-css-selectors"> Lab: CSS Gems</a><br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-zetsy">Stretch Lab: Zetsy</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-zhw-shoes-layout">Stretch Lab: ZHW Shoes</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-css-issue-bot-9000">Lab: CSS Issue Bot 9000</a></br>
+      <a href="https://github.com/learn-co-curriculum/kitten-wheelbarrow"> Stretch Lab: Kitten Wheelbarrow</a> <br>
+      <a href="https://GitHub.com/learn-co-curriculum/animal-save">Stretch Lab: Animal Save</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-responsive-web-design-stretch">Stretch Lab: Responsive Web Design</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/fe-concentration-game">Stretch Lab: Concentration Game</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/ecard-site-layout">Stretch Lab: eCard</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/fe-jquery-exploring-selectors">Stretch Lab: jQuery Selectors</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/fe-jquery-exploring-methods">Stretch Lab: jQuery Methods</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-my-website">Stretch Lab: Make Your Own Personal Website!</a></br>
     </td>
   </tr>
   <tr>
