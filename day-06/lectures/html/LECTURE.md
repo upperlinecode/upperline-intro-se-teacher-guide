@@ -1,4 +1,4 @@
-# DAY-07 HTML 
+# DAY-06 HTML 
 
 ##Objective
 ***Students will be able to create their own HTML page from scratch***
