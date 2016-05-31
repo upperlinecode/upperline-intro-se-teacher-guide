@@ -21,20 +21,12 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
   </tr>
   <tr>
     <td>9:15 - 11:00</td>
-    <td>Intro to HTML/CSS</td>
+    <td>Intro to CSS</td>
     <td>
-    	<a href="lectures/html/LECTURE.md">Lecture: HTML</a></br>
-      <a href="lectures/html">Lecture Notes</a></br>
     	<a href="lectures/css/LECTURE.md">Lecture: CSS</a></br>
       <a href="lectures/css/LECTURE.md">Lecture Notes</a></br>
     	<a href="https://GitHub.com/learn-co-curriculum/css-walkthrough-hs">Walkthrough: CSS</a></br>
-    	HTML Labs</br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-tourism-website-lab">Lab: Tourism</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/hs-album-cover">Lab: Album Cover</a></br>
-    	<a href="https://GitHub.com/learn-co-curriculum/dev-tools-super-power">Lab: Dev Tools Super Power</a></br>
-      <a href="https://github.com/learn-co-curriculum/hs-ruby1-my-website"> HTML and CSS Lab: Personal Website</a><br>
-      <a href="https://GitHub.com/learn-co-curriculum/hs-issue-bot-9000">Lab: HTML Issue Bot 9000</a></br>
+    	
     	CSS Labs</br>
     	<a href="https://GitHub.com/learn-co-curriculum/hs-empire-state-css-challenge">Lab: Empire State CSS Challenge</a></br>
       <a href="https://Github.com/learn-co-curriculum/hs-intro-software-engineering-css-selectors"> Lab: CSS Gems</a><br>
@@ -96,9 +88,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 
 ##SWBATS
-+ HTML - Structure an HTML page using doctype, html, head, title, and body tags
-+ HTML - Add an image, link, paragraph text, and header text to a page
-+ HTML - Create an ordered and unordered list using the ol, ul, li tags
+
 + HTML - Organize sections of HTML with div tags
 + CSS - Explain the purpose and structure of CSS
 + CSS - Link an html file to CSS

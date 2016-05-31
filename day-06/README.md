@@ -57,26 +57,19 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-    <td>12:30 - 2:20</td>
-    <td>Group PROJECT!</td>
+    <td>12:30 - 2:50</td>
+    <td>Intro to HTML</td>
     <td>
-      It's incredibly important to phrase this as a group project - let groups decide if they want to do a structured test-driven project (OO Amazon Payment) OR a more open-ended no test or structure SnapChat
-       <a href="lectures/object-oriented-group-project">Lecture: Object Oriented Group Project</a>
-     </br>
-     <br>
-
-      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-cash-register">Project: Amazon Payment</a>
-      <br>
-      <br><br>
-      <a href="https://GitHub.com/learn-co-curriculum/hs-oo-snapchat">Project: SnapChat</a>
-  
+      <a href="lectures/html/LECTURE.md">Lecture: HTML</a></br>
+      <a href="lectures/html">Lecture Notes</a></br>
+      HTML Labs</br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-tourism-website-lab">Lab: Tourism</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/html-playground">Lab: HTML Playground</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-album-cover">Lab: Album Cover</a></br>
+      <a href="https://GitHub.com/learn-co-curriculum/dev-tools-super-power">Lab: Dev Tools Super Power</a></br>
+      <a href="https://github.com/learn-co-curriculum/hs-ruby1-my-website"> HTML and CSS Lab: Personal Website</a><br>
+      <a href="https://GitHub.com/learn-co-curriculum/hs-issue-bot-9000">Lab: HTML Issue Bot 9000</a></br>
     </td>
-  </tr>
-   <tr>
-    <td>2:20 - 2:50</td>
-    <td>Present to Class</td>
-    <td>
-   </td>
   </tr>
   <tr>
     <td>2:50 - 3:00</td>
@@ -94,3 +87,6 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 ##SWBATs
 + Work collaboratively to develop an object-oriented set of models that simulate real world environments.
++ HTML - Structure an HTML page using doctype, html, head, title, and body tags
++ HTML - Add an image, link, paragraph text, and header text to a page
++ HTML - Create an ordered and unordered list using the ol, ul, li tags

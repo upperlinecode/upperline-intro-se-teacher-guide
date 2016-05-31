@@ -32,8 +32,8 @@
 
 
 ## Motivation
-+ Introduce Ruby with drone demonstration!! WOOHOO RUBY IS SO COOL
-+ Ruby is a backend programming language that is typically used to build web applications.
++ Introduce Ruby by talking about amazing things that have been built with it: AirBnb, Twitter, Groupon, SoundCloud...
++ Ruby is a backend programming language that is typically used to build **web applications.**
 + Explain backend with example of website vs. web application. A static site for a pizza parlor shows the same info to everyone who visits - telephone number, location, etc. - but when you log into a site like Facebook you get a unique experience. It knows who you are and who your friends are. It also lets you, and only, connect to new friends, upload photos, update your status, etc. A backend is what makes this possible.
 + Ruby is an awesome backend language because easy to read, easy to learn, and there are a ton of resources available
 + by the end of this lesson you will be able to build a small program that takes in input and gives you an output
