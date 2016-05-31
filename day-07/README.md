@@ -16,7 +16,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     <td>
         <a href="https://docs.google.com/presentation/d/1njVWvkm-bjir6aGeDe9vUsx2A0vdp2bBLKrYIkKy4O0/edit#slide=id.g415fa6f76_018">Day 7 Deck</a></br>
 
-        <a href="https://GitHub.com/learn-co-curriculum/hs-oo-raccoon-puma-todo">To-Do: Raccoon-Puma</a>
+        <a href="https://GitHub.com/learn-co-curriculum/upperline-hs-html-todo">To-Do: HTML Refresher</a>
     </td>
   </tr>
   <tr>
