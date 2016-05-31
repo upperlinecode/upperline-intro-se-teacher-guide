@@ -1,4 +1,4 @@
-# DAY-07 HTML 
+# DAY-06 HTML 
 
 _A full lecture is available [here](LECTURE.md)_
 
