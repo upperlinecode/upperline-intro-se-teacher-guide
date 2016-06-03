@@ -13,7 +13,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 	</tr>	
 	<tr>
     <td>9:00 - 9:15</td>
-    <td>To-Do</td>
+    <td>To-Do + Review micro-feedback</td>
     <td>
         <a href="https://docs.google.com/presentation/d/1QtA-vrZUxAFszcRta9kCW1Xk6rRnO7-Qe2PYdu9kYxc/edit#slide=id.g497b61ce2_018">Day 5 Deck</a></br>
 
