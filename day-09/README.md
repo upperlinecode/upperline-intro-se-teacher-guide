@@ -11,6 +11,13 @@
     </tr>
     <tr>
         <td>9:00 - 9:45</td>
+        <td>Review micro-feedback</td>
+        <td>
+            Go over Microfeedback
+        </td>
+    </tr>
+    <tr>
+        <td>9:00 - 9:45</td>
         <td>Twilio API Lesson || MVC Forms</td>
         <td>
             <a href="lectures/APIs/README.md">Twilio API Lesson</a>
