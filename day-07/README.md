@@ -29,7 +29,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
     </td>
   </tr>
   <tr>
-    <td>10:00 - 11:30</td>
+    <td>10:00 - 11:00</td>
     <td>Bootstrap Practice</td>
       
     <td>
