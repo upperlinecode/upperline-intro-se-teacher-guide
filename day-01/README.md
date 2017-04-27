@@ -81,7 +81,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 
 [Tips](https://docs.google.com/a/flatironschool.com/document/d/1q9xnXgAWXJPaBx358NytoHF4yKStTCphlVpFpazGkjM)
 
-###Before Class One:
+### Before Class One:
 + Find out how many kids need computers / set up computers
 + Make sure kids are on Shortpath
 + Send Welcome email
@@ -90,7 +90,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + Make sure that team repository has been created (something like https://GitHub.com/flatiron-school-ironboard/hs-ruby-assessment-after-school-advanced-000).
 + Make sure you have a credit card to order pizza lunch (Elana can pre-order from Williamsburg Pizza but you should call the morning of class to make sure it is coming)
 
-###Day Before:
+### Day Before:
 + Make sure kids have access to building
 + Make sure students know lunch isn't provided
 + Review best practices around instruction strategies and tactics
@@ -100,7 +100,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + Make sure all labs are deployed
 + Make sure surveys are printed or link to survey has been added to Ironboard 
 
-###Day of:
+### Day of:
 + Have music playing when students enter the class
 + Schedule on board before kids go in
 + hand out surveys at the end of class (or direct students to survey on Ironboard)
@@ -110,7 +110,7 @@ This is just a suggested schedule. Improv shouldn't take up a full half hour and
 + break up lecture with interactivity
 
 
-##SWBATs
+## SWBATs
 + CLI ‐ Understand and explain what terminal is and why we use it.
 + CLI ‐ Navigate through directories using relative and absolute paths*
 + CLI ‐ use the cd command to move up and down directories
