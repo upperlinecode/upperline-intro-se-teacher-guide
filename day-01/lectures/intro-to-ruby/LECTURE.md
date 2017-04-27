@@ -41,30 +41,33 @@
 ## Lesson Plan
 + All programs are just lines of text read by a computer. We're going to create a ruby file, which is just a file written in a text editor with the file extension `.rb`.
 + Make sure all students have a `development` directory 
-    + `cd desktop`
-    + `mkdir development`
     + `cd development`
-+ now let's make a ruby file `touch first_app.rb` and open it in sublime text 2, which is just a text editor like Text Edit. `subl first_app.rb`
+    + `mkdir ruby-practice`
+    + `cd ruby-practice`
++ Now let's make a ruby file `touch first_app.rb` and open it by double clicking it in the file navigator.
 + This empty text file is where we're going to write our code that the program will execute later. We're just going to be writing instructions for the computer to know what we want it to do, and then later we can tell it to actually follow the instructions.
 + `puts "hello world"`
     + every programmer starts with a program that outputs hello world. congratulations, you're all developers now. WOOO CLAP!
     + We have two important pieces to keep in mind - data and key words. All programs are made up of these two things. In this example, puts is a key word and "hello world" is a piece of data called a string
-    + what is data? (ask class for their thoughts). The internet is entirely made up of data and websites give context for that data. Fandango is a website for movie information, but without knowing what Fandango is and does, it's just a bunch of random addresses, names, and times on the screen. That's data and Fandango gives context for it.
-+ What is a string? Strings are a piece of data denoted by double quotes. A string can hold any type of character, letters, numbers, spaces, and all special characters like ***!!!&&&. It's used to hold information in a sentence-like format. We have to put the double quotes for the computer to treat the sentence as data. As people, we look at words written and automatically know that they are words to be read and contain information. Computers are stupid and have to be told explicitly what they are. Any time you type a new Facebook status, or comment on a friend's Instragram, the backend code of those applications reads those posts as Strings.***(Pause for students to explain to a partner what a string is)***
+    + What is data? (ask class for their thoughts). The internet is entirely made up of data and websites give context for that data. Fandango is a website for movie information, but without knowing what Fandango is and does, it's just a bunch of random addresses, names, and times on the screen. That's data and Fandango gives context for it.
++ What is a string? Strings are a piece of data denoted by double quotes. A string can hold any type of character, letters, numbers, spaces, and all special characters like !!!&&&. It's used to hold information in a sentence-like format. We have to put the double quotes for the computer to treat the sentence as data. As people, we look at words written and automatically know that they are words to be read and contain information. Computers are stupid and have to be told explicitly what they are. Any time you type a new Facebook status, or comment on a friend's Instragram, the backend code of those applications reads those posts as Strings.***(Pause for students to explain to a partner what a string is)***
 + And `puts`? `Puts` is an action built into Ruby that tells the computer to print out your piece of data to the screen. It's telling the computer, show this information to my user. 
 + Now we've written the instructions, let's run them. In terminal, from inside your development directory, type `ruby first_app.rb`. The ruby command tells your computer to execute this ruby file. (pause to let students run the file.)
 + ***Let students puts another sentence of their choice.***
 + What do you think this will do: `puts "my name is" + "insert_your_name-here"`
     + this is called string concatenation. We're just adding strings together
-    + see if they notice the missing space, and what that does. can reinforce that spaces are just characters in a string
+    + see if they notice the missing space, and what that does. You can reinforce that spaces are just characters in a string
 + A string is just a type of data that has some built in methods. A method is just a set of actions. 
     + `.length`
     + `.reverse`
     + `.upcase` `.downcase` `.swapcase`
     + `.capitalize`
 + You can even chain methods together: `"hello world".upcase.reverse.capitalize`
+
 + ***BREAK FOR STRING LAB***
-+ so what does: puts `"1" + "1"` give us? That's definitely not the correct answer, so how do we do math in ruby? We need integers! integers are another data type in ruby.
+
++ So what does: puts `"1" + "1"` give us (it is "11")? That's definitely not the correct answer, so how do we do math in ruby? We need integers! integers are another data type in ruby.
+
 + what is an integer? ask students it's just a whole number
     + `puts 1 + 1`
     + `puts 10 - 1`
@@ -107,8 +110,14 @@
     + demo a program: `puts "what is your name" gets`
     + notice terminal hangs to let us type in input, but then it doesn't do anything with it. we need to be able to persist/store our input. ***What have we learned about that lets us store data?*** variables!! `name = gets puts "hello #{name}"`
 
+```ruby
+puts "what is your name?"
+name = gets
+puts "hello #{name}!"
+```
+
 ## Conclusion 
 Web applications follow and input-output pattern. You input a comment to the funny cat meme your friend put on Facebook, and it's outputted back to you in Facebook's pretty format. This structure is the basis of every application, and you just learned how it works.
 
 ## Hints and Hurdles
-+ `gets` takes in all information as a string and with the newline-character at the end of it
++ `gets` takes in all information as a string and with the newline-character at the end of it. add `.chomp` to get rid of the newline.
