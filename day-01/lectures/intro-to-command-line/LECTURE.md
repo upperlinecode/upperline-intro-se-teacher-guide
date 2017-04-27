@@ -82,7 +82,9 @@ The Command Line is an incredibly valuable tool that lets you manipulate configu
 
 ## Hints and Hurdles
 
-+ The `Refrigerator Organization` lab really hammers home paths. This is an important concept for students as they begin to create HTML/CSS projects and then their sinatra apps at the end of the course. Paths are a complicated concept- let students know its ok if it doesn't make sense right away.
++ The [Refrigerator Organization]() lab really hammers home paths. This is an important concept for students as they begin to create HTML/CSS projects and then their sinatra apps at the end of the course. Paths are a complicated concept- let students know its ok if it doesn't make sense right away.
+
++ Bonus Labs are the Terminus Game and the Command Line Challenge!
 
 + Helps to have students write out the instructions if they were moving one step at a time `cd code`, `cd labs` and then show them how they can shorten that `cd code/labs`.
 
