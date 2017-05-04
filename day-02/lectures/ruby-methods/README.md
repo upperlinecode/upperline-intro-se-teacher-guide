@@ -9,22 +9,22 @@ _A full lecture is available [here](LECTURE.md)_
 + Remember all that cool stuff we can do to a string, like `reverse` and `swapcase`? Those methods are part of Ruby's built-in methods. Coding becomes very powerful when you start to write your own methods. They allow you to invoke powerful tasks that you've defined yourself using just one word (the method call). 
 
 ## Lesson Plan
-#####What are methods?
+##### What are methods?
 + METHOD DEFINITION: A set of instructions that tells the computer to do something. You can write code once, and then re-use it as many times as you want.
 + There are PRE-WRITTEN METHODS for different data types. You can use `upcase` on a string but not on an integer or a float.
 ```ruby
 "string".upcase
 ```
-#####Method Chaining: How would you make the word "Ruby" appear in all caps and backwards?
+##### Method Chaining: How would you make the word "Ruby" appear in all caps and backwards?
 ```ruby
 "string".upcase.reverse
 ```
-####Our First Method!
+#### Our First Method!
 + If a method you want to use isn't prewritten, you can create your own.
  
-#####Syntax: Show generic code to students. Walk them through the pieces. DO NOT use `puts` in the body of your method. Use puts to display the return value of your method when you call it later. `puts` in methods gets really confusing, and will prohibit students from putting it all together when they start building their final projects.
+##### Syntax: Show generic code to students. Walk them through the pieces. DO NOT use `puts` in the body of your method. Use puts to display the return value of your method when you call it later. `puts` in methods gets really confusing, and will prohibit students from putting it all together when they start building their final projects.
 
-######OPTIONAL: Prompt students to draw out method example on their whiteboards.
+###### OPTIONAL: Prompt students to draw out method example on their whiteboards.
 ```ruby
 def method_name
  your code goes here!
@@ -44,7 +44,7 @@ def go_home
  # walk out the door
 end
 ```
-######OPTIONAL: Prompt students at their tables to take 2-3 minutes to write out their own method in pseudo code for going to bed.
+###### OPTIONAL: Prompt students at their tables to take 2-3 minutes to write out their own method in pseudo code for going to bed.
 
 ####Method With Ruby Code
 ```ruby
@@ -52,7 +52,7 @@ def hello_world
  "Hello, world!"
 end
 ```
-+ **Defining a method = the how/what** But we also need to CALL it for it to execute.
++ **Defining a method = the how/what** It's like putting a word into a dictionary. But we also need to CALL it for it to execute.
 + **Calling a method = telling computer to do the action**  You know how to ride a bike, but you must **_call_** `ride_bike` to do it.
 + To call a method, write the method name. 
 
@@ -64,10 +64,13 @@ end
   puts hello_world
 ```
 + Write a few more methods with the class:
+
   1. How old will I be in 10 years?
   2. What is my name spelled backwards.
   3. Change all w's to v's.
-+ Break and have students write and call methods in [Methods Practice Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab)
+  4. Convert lbs to kilograms
+  
++ Break and have students write and call methods in **Methods Practice Lab**
 
 RETURN VALUE
 + Always the result of the last line of code. Like a receipt. Why is the return value of this code `nil`?:
@@ -89,10 +92,10 @@ hello_world.upcase
 
 ```ruby
 def hello_world 
-puts "Hello world!" 
-return "Hello world!"
+ puts "Hello world!" 
+ return "Hello world!"
 end
-hello_world.upcase
+ hello_world.upcase
 ```
 + Now the return value is "Hello world!".
 + We don't actually need the word `return` because it is **implicit**.
@@ -101,9 +104,9 @@ hello_world.upcase
 + If `puts` is called insided of another method, the other method will return a value of NIL.
 
 
-#####Break and have students write and call methods in [Methods Practice Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab) and [Flyover Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-flyover-lab)
+##### Break and have students write and call methods in [Methods Practice Lab]
 
-####Arguments
+#### Arguments
 + Say Hello Method: To `say_hello` to each person in the class we might have to do something like this:
 ```ruby
 def hello_victoria
@@ -128,9 +131,9 @@ end
 + **Calling method with an argument**: `puts say_name("Vanessa")`, `puts say_name("Victoria")`
   + _Note that, in this case, the argument has to be a string._
 
-######Prompt students to open up Nitrous and write out this method and try calling it with different names.
+###### Prompt students to open up their IDEs and write out this method and try calling it with different names.
 
-#####Multiple Arguments and Different Data Types
+##### Multiple Arguments and Different Data Types
 Example 1:
 ```ruby
 def many_pets(species, number)
@@ -148,7 +151,7 @@ end
 puts addition(2, 3)
 ```
 
-#####Default Values
+##### Default Values
 ```ruby
 def say_name(name = "Programmer") 
   "Hello, #{name}!"
@@ -157,7 +160,7 @@ end
 + What happens when you call it with no arguments?
 + Have students work on the [meal choice mini-lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab)
 
-#####Why do we need arguments? Scope!
+##### Why do we need arguments? Scope!
 Can't we do this?:
 ```ruby
 name = "Joe"
@@ -198,7 +201,7 @@ puts "hello #{name}"
 + Why does it print hello to both people? Because of SCOPE. 
 + Remember to use arguments to send variables into a method, otherwise the method won't know what you're talking about if they're defined outside the method.
 
-#####Break and have students work on the [Parrot Lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-parrot-lab) and [meal choice mini-lab](https://GitHub.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab)
+##### Break and have students work on labs.
 
 
 ## Conclusion / So What?
