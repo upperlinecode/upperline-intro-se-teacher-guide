@@ -16,18 +16,18 @@
 ## Lesson Plan
 
 
-##Putting Code Online
+## Putting Code Online
 
 So you do a lab, and then you spill water all over your laptop and fry it. It's the modern day version of "my dog ate my homework". Good thing the tech industry has thought of that. 
 
 The real power of GitHub comes in the form of version control and hosting your code in the cloud. Version control is the ability to save snapshots of your work over time so that you can go back to different snapshots if you mess something up. We can push these snapshots (called commits) to GitHub so that they can be accessed from anywhere, allowing for collaboration with other developers.
 
-###What is GIT?
+### What is GIT?
 First of all, it's important to note that git and GitHub aren
 t the same thing. GitHub is where we save our code in the cloud, while git is a version control system that lives on your computer. You use git from the command line, like when you cloned a lab to your computer using `git clone`
 
 
-###Git with GitHub
+### Git with GitHub
 We use the version-control language, Git, in order to host our code on GitHub.
 
 Let's say you work on a lab and finish half of it, but then you have to go home for the day. But there's a risk you could drop your laptop in the Hudson river on the way home and you'd lose all your work. So besides emailing it to yourself, which is incredibly tedious, how could you easily save your code?
@@ -55,13 +55,13 @@ Once you have submitted the form on GitHub to create a new repository, you'll wa
 
 You'll be entering those commands in terminal in the `my_website` directory. 
 
-###GIT INIT
+### GIT INIT
 `git init` is a command that basically tells git to track all the changes made to a project. It allows git to follow new files, and track any additions or deletions from existing projects
 
-###GIT ADD
+### GIT ADD
 `git add` is a command that tells git that I want to keep changes I made to specific files. GitHub had you create a new file called `README.md` and then add that file by typing `git add README.md`
 
-###GIT COMMIT
+### GIT COMMIT
 `git commit` is a command that we use to have git take a snapshot of all of our code at that current moment in time. It's sort of like when you're playing a video game and it saves the state of the game, so that if you die you don't lose the game, you just go back to that specific point.
 
 We use the git commit command like this:
@@ -70,7 +70,7 @@ We use the git commit command like this:
   git commit -m "this is a description of my work"
 ```
 
-###GIT PUSH
+### GIT PUSH
 GitHub had us type a lengthy command, something like:
 
 ```bash
@@ -85,7 +85,7 @@ We only have to enter that lengthy command for the *very first* commit of that r
 git push
 ```
 
-###WORKFLOW
+### WORKFLOW
 Once you have your project created, have a GitHub repository created, and set up the directory on your computer to point to that location on GitHub, all you need to remember is:
 
 * git add file_name
