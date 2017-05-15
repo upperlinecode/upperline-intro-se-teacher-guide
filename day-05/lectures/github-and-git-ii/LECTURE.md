@@ -92,6 +92,17 @@ Once you have your project created, have a GitHub repository created, and set up
 * git commit -m "commit message"
 * git push
 
+### MULTIPLE DEVELOPERS ON ONE REPO
+Things get interesting with git and github when you have several people working on one repository. (for the purposes of this class we won't use branching).
+
+Developer 1 creates a repo, adds dev 2 as collaborator. 
+Developer 1 starts working, and makes first commit and push 
+Developer 2 clones the project. Developer 2 commits and pushes.
+Developer 1 needs to PULL before he can commit and push. 
+etc...
+
+(Model this for students)
+
 ## Conclusion / So What?
 + Now that you have the full power of Git and GitHub at your fingertips, collaborating with other developers is fully within your capabilities. This means you can work on some of the hottest coding projects out there, like Rails or Sinatra, and submit pull requests that could result in your code being incorporated into the code base. And when it comes to applying for coding jobs down the road, employers love to see that you've contributed to open source projects.
 
