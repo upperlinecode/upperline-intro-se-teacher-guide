@@ -79,13 +79,12 @@ steph = {
   end
 ```
 + **_reader_** and **_writer_** methods may also be referred to as **_getter_** and **_setter_** methods
-+ Interactive Lab: (Basic Objects)[https://GitHub.com/learn-co-curriculum/hs-basic-objects-mini-lab]
++ Interactive Lab: (Basic Objects)[https://github.com/upperlinecode/basic-objects-mini-lab/b]
 + Initialize method
   * Have students add an initialize method to their interactive lab classes
   * Passing arguments to the initialize method
     * Have students add an argument to their initialize method
 + Create a method inside class, like `poke_friend` or `post_to_wall`
-+ Lab: [Garden Gnome](https://GitHub.com/learn-co-curriculum/hs-garden-gnome-oo-lab)
 + Everything is an object
   * The string `"hi"` is actually `String.new("hi")`
     * Shortcut is just syntactic sugar
