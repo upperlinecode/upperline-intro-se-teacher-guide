@@ -25,7 +25,7 @@
 **HOW WEB APPLICATIONS WORK**
 + The front-end and back-end of websites are connected by a structural system known as MVC.
 + In Ruby, Rails and Sinatra are two web application frameworks developers use. We'll be using Sinatra.
-+ Have students clone [Interactive Simple Lab](https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice)
++ Have students clone [Interactive Simple Lab](https://github.com/upperlinecode/upperline-basic-sinatra-template)
   * Solution can be found [here](https://GitHub.com/learn-co-curriculum/hs-mvc-interactive-practice/tree/solution) 
 + MVC stands for Model View Controller
 + Models
@@ -95,6 +95,7 @@ end
 ```
 + Have students create their own views and connect them to the controller.
 + Add CSS file to the public directory and link it to ERB file.
+
   * In Sinatra, you don't have to link to the public directory. Any CSS file will be linked by `<link rel="stylesheet" type="text/css" href="css/style.css"> It's weird because you don't need a relative path with Sinatra.
 + Add a photo to the site through the public directory. - same rule applies as the CSS directory, you just start the path from immediately inside the public directory.
 + Add a model called `dog.rb` that has a few attributes like breed, age, and name. Explain purpose of having the model layer.
