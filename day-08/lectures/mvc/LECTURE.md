@@ -60,7 +60,7 @@
   * We make all instances of our classes from our models in this file to be able to display them in the view.
 
 + **Models**
-    * This holds our backend code - it's where you would find a ruby class. All logic about how an object should look or act goes here. You don't make instances of your class here.
+    * This holds our backend code - it's where you would find a Ruby class. All logic about how an object should look or act goes here. You don't make instances of your class here.
     * We will set up a `dog.rb` file.
 
 + **Views**
@@ -85,7 +85,7 @@
   end
 ```
 + Demo using shotgun gem to create a local server to run our application locally. In terminal, enter `shotgun -o 0.0.0.0 -p 9393` and then in browser, go to `localhost:9393`
-+ Have students practice creating a new route like '/dog' and have it display texts.
++ Have students practice creating a new route like '/dog' and have it display plain text.
 
 + Demo adding a view by creating an ERB file with HTML in it. Create dog.erb file in views folder and link to the controller with `erb :dog`.
 ```ruby
@@ -96,8 +96,8 @@ end
 + Have students create their own views and connect them to the controller.
 + Add CSS file to the public directory and link it to ERB file.
 
-  * In Sinatra, you don't have to link to the public directory. Any CSS file will be linked by `<link rel="stylesheet" type="text/css" href="css/style.css"> It's weird because you don't need a relative path with Sinatra.
-+ Add a photo to the site through the public directory. - same rule applies as the CSS directory, you just start the path from immediately inside the public directory.
+  * In Sinatra, you don't have to link to the public directory. Any CSS file will be linked by `<link rel="stylesheet" type="text/css" href="css/style.css">`. By default, Sinatra already knows to look for static resources [files that don't change: stylesheets, images and JavaScript files] in the public directory.
++ Add a photo to the site through the public directory. Remember, just as with CSS files, Sinatra will look for photos in the public directory. The href attribute's path should start inside that public directory.
 + Add a model called `dog.rb` that has a few attributes like breed, age, and name. Explain purpose of having the model layer.
   + It allows us to create new instances of the dog class from the controller.
 + Add instance of the dog class in the `'/dog'` response and assign it to an instance variable so it can be used in the view.
