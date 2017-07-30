@@ -144,6 +144,7 @@ And in your views:
 ### Hints and Hurdles
 <a href="https://drive.google.com/file/d/0B17rUuqpJ8atX084clB4WHM5OGM/view"> MVC Code Visual</a>
 + To use Shotgun with Nitrous enter `shotgun -o 0.0.0.0 -p 9393` to start the server of Port 9393.
++ To use Shotgun with cloud 9 enter `shotgun -p $PORT -o $IP` which will start the sever on the correct port and IP address
 + Object orientation review will be necessary before launching into MVC.
 + If students want to know the mechanics of Sinatra, explain that it is beyond the scope of this lesson, but they can dive in further on their own. Sometimes you have to take these things for granted in the short term.
 + Have students walk through the code and explain to a partner the flow of MVC applications.
