@@ -115,10 +115,10 @@ end
 You could store all the dogs you created in your controller like this:
 ```ruby
 get '/dog' do 
-  @dog1 = Dog.new("Fido", "Lab", 5)
-  @dog2 = Dog.new("Beth", "Golden Retrieve", 2)
-  @dog3 = Dog.new("Carl", "Dalmation", 7)
-  @dogs = [@dog1, @dog2, @dog3]
+  dog1 = Dog.new("Fido", "Lab", 5)
+  dog2 = Dog.new("Beth", "Golden Retrieve", 2)
+  dog3 = Dog.new("Carl", "Dalmation", 7)
+  @dogs = [dog1, dog2, dog3]
   erb :dog
 end
 ```
@@ -131,7 +131,7 @@ And in your views:
 + erb tags without the `=` won't be displayed. 
 + You could also use an if-statement to display only dogs who are five and older.
 + Review all the steps:
-  + When we make a GET request, our controller creates a new dog object from the model. Then the controller takes that instance that has been created and passes it to our view so that we can show the data to our users in HTML.
+  + When we make a GET request, our controller creates a new dog object from the model. Those instances are stored in a @dogs array, which gets passed to the view so that we can show the data to our users in HTML. Again, notice the '@' before the array variable name dogs. This declares the dogs array as an instance variable to be accessed in the view.
 + Have students create another dog in the same request and have its attributes be displayed in the view.
 + Have students discuss in small groups the entire process, then create a new route, model, and view for something else, like a cat or a musician.
 + What if we have a bunch of different instances we want to display on a page? Prompt students.
