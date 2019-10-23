@@ -61,7 +61,7 @@ touch pyramids.txt
 
 + remove a file that you no longer want using rm (I don't want to see eiffel_tower.txt anymore) `rm eiffel_tower.txt`
 
-+ remove an entire directory using `rm -rf` (remove paris directory) `rm -rf paris`
++ remove an entire directory using `rmdir paris` (remove paris directory) 
 
 + Accidentally place a file in the wrong directory so we need to move it. (`washington_monument.txt` in `new_york` directory needs to be moved to `washington` directory)
 
